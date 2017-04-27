@@ -1,0 +1,60 @@
+apple at 10
+20 sales of apples at 10 each
+Add 20 apples
+apple at 10
+20 sales of apples at 10 each
+Add 20 apples
+apple at 10
+20 sales of chairs at 10 each
+chair at 10
+20 sales of cherries at 10 each
+cherry at 10
+20 sales of oranges at 10 each
+orange at 10
+20 sales of pineapples at 10 each
+pineapple at 10
+5 sales of strawberries at 5 each
+strawberry at 5
+2 sales of grapes at 15 each
+grapes at 15
+table at 20
+25 sales of tables at 20 each
+apple at 10
+Add 2 pineapples
+Add 3 chairs
+Subtract 5 apples
+apple at 10
+20 sales of apples at 10 each
+Add 20 apples
+apple at 10
+20 sales of apples at 10 each
+Add 20 apples
+apple at 10
+20 sales of chairs at 10 each
+chair at 10
+20 sales of cherries at 10 each
+cherry at 10
+20 sales of oranges at 10 each
+orange at 10
+20 sales of pineapples at 10 each
+pineapple at 10
+5 sales of strawberries at 5 each
+apple at 10
+20 sales of apples at 10 each
+Multiply 20 strawberries
+apple at 10
+20 sales of chairs at 10 each
+chair at 10
+Add 5 pineapples
+Subtract 5 cherries
+12 sales of grapes
+20 sales of cherries at 10 each
+cherry at 10
+20 sales of oranges at 10 each
+orange at 10
+20 sales of pineapples at 10 each
+pineapple at 10
+5 sales of strawberries at 5 each
+apple at 10
+20 sales of apples at 10 each
+Add 20 apples

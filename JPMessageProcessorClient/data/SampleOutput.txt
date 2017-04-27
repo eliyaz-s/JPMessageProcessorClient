@@ -1,0 +1,70 @@
+This is the output generated for the last execution .
+ ------------------------------------------------------------------------------------------------
+ Received 10 messages... Dumping summary..!!
+ ------------------------------------------------------------------------------------------------
+ Name : cherries, Total number of Sales: 20, Total Value: 2Pounds
+ Name : chairs, Total number of Sales: 21, Total Value: 2.1Pounds
+ Name : apples, Total number of Sales: 43, Total Value: 16.9Pounds
+ ------------------------------------------------------------------------------------------------
+ ------------------------------------------------------------------------------------------------
+ Received 10 messages... Dumping summary..!!
+ ------------------------------------------------------------------------------------------------
+ Name : tables, Total number of Sales: 1, Total Value: 0.2Pounds
+ Name : oranges, Total number of Sales: 21, Total Value: 2.1Pounds
+ Name : cherries, Total number of Sales: 21, Total Value: 2.1Pounds
+ Name : pineapples, Total number of Sales: 21, Total Value: 2.1Pounds
+ Name : chairs, Total number of Sales: 21, Total Value: 2.1Pounds
+ Name : strawberries, Total number of Sales: 6, Total Value: 0.3Pounds
+ Name : apples, Total number of Sales: 43, Total Value: 16.9Pounds
+ Name : grapes, Total number of Sales: 3, Total Value: 0.45Pounds
+ ------------------------------------------------------------------------------------------------
+ ------------------------------------------------------------------------------------------------
+ Received 10 messages... Dumping summary..!!
+ ------------------------------------------------------------------------------------------------
+ Name : tables, Total number of Sales: 26, Total Value: 5.2Pounds
+ Name : oranges, Total number of Sales: 21, Total Value: 2.1Pounds
+ Name : cherries, Total number of Sales: 21, Total Value: 2.1Pounds
+ Name : pineapples, Total number of Sales: 21, Total Value: 2.52Pounds
+ Name : chairs, Total number of Sales: 21, Total Value: 2.73Pounds
+ Name : strawberries, Total number of Sales: 6, Total Value: 0.3Pounds
+ Name : apples, Total number of Sales: 86, Total Value: 32Pounds
+ Name : grapes, Total number of Sales: 3, Total Value: 0.45Pounds
+ ------------------------------------------------------------------------------------------------
+ ------------------------------------------------------------------------------------------------
+ Received 10 messages... Dumping summary..!!
+ ------------------------------------------------------------------------------------------------
+ Name : tables, Total number of Sales: 26, Total Value: 5.2Pounds
+ Name : oranges, Total number of Sales: 42, Total Value: 4.2Pounds
+ Name : cherries, Total number of Sales: 42, Total Value: 4.2Pounds
+ Name : pineapples, Total number of Sales: 42, Total Value: 4.62Pounds
+ Name : chairs, Total number of Sales: 42, Total Value: 4.83Pounds
+ Name : strawberries, Total number of Sales: 6, Total Value: 0.3Pounds
+ Name : apples, Total number of Sales: 87, Total Value: 49.3Pounds
+ Name : grapes, Total number of Sales: 3, Total Value: 0.45Pounds
+ ------------------------------------------------------------------------------------------------
+ ------------------------------------------------------------------------------------------------
+ Received 10 messages... Dumping summary..!!
+ ------------------------------------------------------------------------------------------------
+ Name : tables, Total number of Sales: 26, Total Value: 5.2Pounds
+ Name : oranges, Total number of Sales: 42, Total Value: 4.2Pounds
+ Name : cherries, Total number of Sales: 62, Total Value: 4.1Pounds
+ Name : pineapples, Total number of Sales: 42, Total Value: 6.72Pounds
+ Name : chairs, Total number of Sales: 63, Total Value: 6.93Pounds
+ Name : strawberries, Total number of Sales: 11, Total Value: 11Pounds
+ Name : apples, Total number of Sales: 109, Total Value: 51.5Pounds
+ Name : grapes, Total number of Sales: 3, Total Value: 0.45Pounds
+ ------------------------------------------------------------------------------------------------
+ Application pausing... No new messages will be processed.
+ *****************Final Adjustment summary****************
+ ------------------------------------------------------------------------------------------------
+ Message :Add 20p for apples.
+ Message :Add 20p for apples.
+ Message :Add 2p for pineapples.
+ Message :Add 3p for chairs.
+ Message :Subtract 5p for apples.
+ Message :Add 20p for apples.
+ Message :Add 20p for apples.
+ Message :Multiply 20p for strawberries.
+ Message :Add 5p for pineapples.
+ Message :Subtract 5p for cherries.
+ ------------------------------------------------------------------------------------------------
